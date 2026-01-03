@@ -1,0 +1,18 @@
+{
+    "name": "emerald/oauth",
+    "description": "This package is a library that is for OAuth applications.",
+    "type": "library",
+    "license": "MT",
+    "autoload": {
+        "psr-4": {
+            "Emerald\\Oauth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emerald Dwomoh",
+            "email": "dwomohemerald2013@gmail.com"
+        }
+    ],
+    "require": {}
+}
