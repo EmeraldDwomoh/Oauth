@@ -2,7 +2,7 @@
     "name": "emeraldd/oauth",
     "description": "This package is a library that is for OAuth applications.",
     "type": "library",
-    "license": "MT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Emeraldd\\Oauth\\": "src/"
