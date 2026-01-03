@@ -1,1 +1,15 @@
-Everyone can use this package without permission
+### Why the symbols?
+* **`#`**: One hash makes a Large Heading (H1).
+* **`##`**: Two hashes make a Medium Heading (H2).
+* **`*`**: Creates a bullet point.
+* **`` `text` ``**: Wrapping text in backticks makes it look like code.
+* **`` ```php ``**: Triple backticks start a "code block" that highlights the syntax for that specific language.
+
+### How to create it:
+1.  Create a new file in your project root named `README.md`.
+2.  Paste the text above into it.
+3.  Save it.
+
+When you eventually push this to GitHub, GitHub will read those symbols and turn them into a professional-looking webpage for your project.
+
+**Would you like me to show you how to add "Badges" to your README (those little green/red icons that show if your tests are passing)?**
