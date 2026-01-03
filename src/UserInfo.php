@@ -1,6 +1,6 @@
 <?php
 
-namespace Emerald\Oauth\Google;
+namespace Emeraldd\Oauth\Google;
 
 class UserInfo {
 

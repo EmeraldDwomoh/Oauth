@@ -10,9 +10,7 @@ Install the package using composer:
 
 ## Features
 
-* Easy authentication redirect
-* Automatic token refreshing
-* PSR-4 compliant
+* Google Login
 
 ## Quick Start
 
